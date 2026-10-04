@@ -2,7 +2,7 @@
 🔭 I’m currently working on: Custom front-end websites aur local businesses ke liye e-commerce solutions.<br><br>👯 I’m looking to collaborate on: Modern Web Development projects aur AI automation workflows (jaise Botpress aur n8n).<br><br>🤝 I’m looking for help with: Advanced JavaScript concepts aur backend integration.<br><br>🌱 I’m currently learning: Modern Web Development (HTML, CSS, JavaScript) at Saylani Mass IT Training.<br><br>💬 Ask me about: HTML, CSS, JavaScript, aur basic web design.
 
 ## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/yousuf.a) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/yousuf_afzal7) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:yousufkhatri444@gmail.com) 
+ [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/yousuf_afzal7) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:yousufkhatri444@gmail.com) 
 
 
 # 💻 Tech Stack:
