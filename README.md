@@ -1,3 +1,17 @@
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=F75C7E&center=true&vcenter=true&width=500&lines=Hi+there%2C+I'm+Yousuf+👋;front-end+Developer+⚙️;Building+Modern+Web+Apps+🚀" alt="Typing SVG" />
+</div>
+
+<h3 align="center">Building Digital Excellence Through Design & Code 🌐</h3>
+
+---
+
+
+
+
+
+
+
 # 💫 About Me:
 🔭 I’m currently working on: Custom front-end websites aur local businesses ke liye e-commerce solutions.<br><br>👯 I’m looking to collaborate on: Modern Web Development projects aur AI automation workflows (jaise Botpress aur n8n).<br><br>🤝 I’m looking for help with: Advanced JavaScript concepts aur backend integration.<br><br>🌱 I’m currently learning: Modern Web Development (HTML, CSS, JavaScript) at Saylani Mass IT Training.<br><br>💬 Ask me about: HTML, CSS, JavaScript, aur basic web design.
 
